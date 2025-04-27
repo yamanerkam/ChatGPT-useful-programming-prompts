@@ -1,4 +1,4 @@
-<h1>ChatGPT Programming Prompts</h1>
+<h1>ChatGPT Useful Programming Prompts</h1>
 
 <h2>📚 About This Collection</h2>
 <p>This project curates a set of powerful prompts specifically designed to help developers get the most out of ChatGPT for programming tasks.</p>
